@@ -1,1 +1,1 @@
-﻿### Classes with _construct and _desctruct
+﻿### Classes with _construct for basic calculate
